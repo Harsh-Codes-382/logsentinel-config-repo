@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Config Server" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="io.logsentinel.configserver.LogsentinelConfigServerApplication" />
+    <module name="logsentinel-config-server" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
